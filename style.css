@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    
+}
+h1{
+    width: 250px;
+    font-size: 38px;
+    text-align: center;
+    margin: 50px auto;
+}
+.foto{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-image: url(img.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 50px auto;
+}
+p{
+    width: 300px;
+    margin: 0 auto;
+}
